@@ -6,6 +6,9 @@
 - 📫 How to reach me ? ( You can reach me through e-mail, linkedin or twitter )
 - 📫 feel free to follow my github, I will definely work on something amazing. thank you.
 
+My favorite Youtube Channels
+@laravelDaily
+@WebDevSimplified
 <!---
 Rajeevkumarmajhi/Rajeevkumarmajhi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

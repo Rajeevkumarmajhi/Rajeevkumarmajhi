@@ -18,7 +18,7 @@ My favorite Youtube Channels
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://odysee.com/rajeevkumarmajhi">
-      <img style="max-width:100%;width:110px;background-color:#007ec6;height:28px;border-radius:3px;" src="https://upload.wikimedia.org/wikipedia/fr/3/3a/Odysee_logo.png" alt="odysee Badge"/>
+      <img src="https://i.ibb.co/cLN9jsc/Odysee-logo.png" alt="Odysee Badge" border="0" />
     </a>
     <a href="https://twitter.com/amazingrajeev">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>

@@ -40,9 +40,6 @@ You can click the Preview link to take a look at your changes.
 <a href="https://instagram.com/merajeevkumarmajhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abid.adhikari" height="30" width="30" style="border-radius:50%" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> > </a> </p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajeevkumarmajhi&show_icons=true&locale=en&layout=compact" alt="rajeevkumarmajhi" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajeevkumarmajhi&show_icons=true&locale=en" alt="rajeevkumarmajhi" /></p>
 

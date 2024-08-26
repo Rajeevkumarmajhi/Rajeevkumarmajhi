@@ -6,10 +6,6 @@
 - 📫 How to reach me ? ( You can reach me through e-mail, linkedin or twitter )
 - 📫 feel free to follow my github, I will definely work on something amazing. thank you.
 
-My favorite Youtube Channels
-@laravelDaily
-@WebDevSimplified
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/rEtMLy9hzmHt59scLl/giphy.gif" width="100"/>
   

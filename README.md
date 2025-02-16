@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rajeev Kumar Majhi building ground to top level projects with common sense pattern. 
 - 👋 I would Love to build and join community, learn and share things. (@Rajeevkumarmajhi)
 - 👀 I’m interested in full stack development
-- 🌱 I’m currently learning (Laravel, Vue, React, Nuxtjs & Nextjs )
+- 🌱 I’m currently working or learning on (Laravel, React, MERN or Nextjs )
 - 💞️ I’m looking to collaborate on ( Facinating projects using Laravel,vue, react js , nextjs, nuxtjs, node js or react native )
 - 📫 How to reach me ? ( You can reach me through e-mail, linkedin or twitter )
 - 📫 feel free to follow my github, I will definely work on something amazing. thank you.

@@ -2,7 +2,7 @@
 - 👋 I would Love to build and join community, learn and share things. (@Rajeevkumarmajhi)
 - 👀 I’m interested in full stack development
 - 🌱 I’m currently working or learning on (Laravel, React, MERN or Nextjs )
-- 💞️ I’m looking to collaborate on ( Facinating projects using Laravel, react js , nextjs, node js or react native )
+- 💞️ I’m looking to collaborate on ( Challenging Projects using stacks Laravel, react js , nextjs, node js or react native )
 - 📫 How to reach me ? ( You can reach me through e-mail, linkedin or twitter )
 - 📫 feel free to follow my github, I will definely work on something amazing. thank you.
 

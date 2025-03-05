@@ -3,7 +3,7 @@
 - 👀 I’m interested in full stack development
 - 🌱 I’m currently working or learning on (Laravel, React, MERN or Nextjs )
 - 💞️ I’m looking to collaborate on ( Challenging Projects using stacks Laravel, react js , nextjs, node js or react native )
-- 📫 How to reach me ? ( You can reach me through e-mail, linkedin or twitter )
+- 📫 How to reach me ? ( You can reach me actively through e-mail, linkedin or whatsapp )
 - 📫 feel free to follow my github, I will definely work on something amazing. thank you.
 
 <div id="header" align="center">
